@@ -34,7 +34,7 @@
 				<div class="form-join-block">
 					<form class="form-join js-form-validate">
 						<div class="heading-block">
-							<h2 class="heading-secondary">Work with LiquidApt</h2>
+							<h2 class="heading-secondary">Work with Ilkal Granite</h2>
 							<div class="sub-heading">Drop us a line if you have what it takes</div>
 						</div>
 						<div class="container-mid">
