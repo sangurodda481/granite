@@ -111,7 +111,7 @@
 
 				  		<div class="grid-child form-site-each">
 						  	<div class="field-block">
-							  	<label for="field-join-skill" class="label label-required">How LiquidApt was used in your site</label>
+							  	<label for="field-join-skill" class="label label-required">Tell your opinion </label>
 							  	<textarea id="field-join-skill" class="input-text"></textarea>
 							  </div>
 						  	<div class="field-block center">
