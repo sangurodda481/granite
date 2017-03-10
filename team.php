@@ -26,32 +26,9 @@
 			<section class="join-block">
 				<div class="background-block background-block--job">
 					<div class="background-block-content container-sm">
-						<h2 class="heading-secondary">Join us</h2>
-						<p>We're the fastest growing portfolio site building app in the country. Our workspace is located within a beautiful, heritage property overlooking Redwood Park. We offer a competitive salary, the latest hardware, paid leave, and free organic buffet style lunch. Our team is diverse, highly motivated and very cosmopolitan.</p>
-						
-						<div class="job-positions-block">
-							<h3 class="center">Open Positions</h3>
-							
-							<div class="job-positions-each">
-								<div class="font-large"><strong>Junior Graphic Designer</strong> <em>(Remote possible)</em></div>
-								<p><em>Skills:</em> Expertise in Photoshop, Illustrator, Responsive Web Design, Vector Design and Manipulation</p>								
-							</div>
-
-							<div class="job-positions-each">
-								<div class="font-large"><strong>Senior Backend Developer</strong> <em>(Onsite)</em></div>
-								<p><em>Skills:</em> Solid experience with PHP and the Laravel framework, OOP, developing and consuming RESTful APIs. 
-								<br>
-								We use Git for version control and Backbone.js on the frontend.</p>
-							</div>							
-
-							<div class="job-positions-each">
-								<div class="font-large"><strong>iOS Developer</strong> <em>(Onsite)</em></div>
-								<p><em>Skills:</em> Prototype, build, test and maintain iOS apps, with an in-depth understanding of Objective-C, Swift and Cocoa.
-								</p>
-							</div>													
+																		
 						</div> <!-- /job-positions-block -->
-					</div> <!-- /job-info -->
-					<div class="overlay"></div>
+					
 				</div> <!-- /background-block -->
 
 				<div class="form-join-block">
