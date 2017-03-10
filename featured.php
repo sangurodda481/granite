@@ -86,7 +86,7 @@
 		  <section class="form-site-block">
 		  	<div class="container-mid">
 			  	<div class="heading-block">
-				  	<h2 class="heading-secondary">Using LiquidApt on a project?</h2>
+				  	<h2 class="heading-secondary">Interested in our granites?</h2>
 				  	<div class="sub-heading">Let us know and we'll add you to our list.</div>
 			  	</div>
 	
