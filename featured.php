@@ -11,7 +11,7 @@
 		<?php include "includes/header.php"; ?>
 		<main class="main">
 			<section class="container-main">
-				<h1 class="heading-primary">Built with LiquidApt</h1>
+				<h1 class="heading-primary">Our Products</h1>
 		  	<div class="featured-block">
 		  		<ul class="grid-parent ul-base">
 			  		<li class="featured-each grid-child">
