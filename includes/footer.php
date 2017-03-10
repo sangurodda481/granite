@@ -30,7 +30,7 @@
 			</div> <!-- /footer-social-block -->
 
 			<div class="footer-copyright-block grid-child">
-				<div>Copyright 2015, Ilkal, Inc. All Rights Reserved.</div>
+				<div>Copyright 2017, Ilkal, Inc. All Rights Reserved.</div>
 				<div><a href="credits.txt">Credits</a></div>
 			</div> <!-- /footer-copyright-block -->
 		</div> <!-- /grid-parent -->
