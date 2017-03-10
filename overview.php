@@ -3,7 +3,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>LiquidApt: Overview</title>
+		<title>Ilkal Granite: Overview</title>
 		<?php include "includes/head.php"; ?>
 	</head>
 
